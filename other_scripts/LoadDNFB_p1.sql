@@ -8,7 +8,8 @@ MODIFICATION LOG:
 Ver   Date        Author    Description
 ---   ----------  -------   -----------------------------------------------------------------
 1.0   06/06/2020  SSILVA   1. Created the script
-2.0	   78/22/2020 SSILVA   2. Removed the Bank table
+2.0	  7/22/2020 SSILVA     2. Removed the Bank table
+3.0	  7/22/2020 SSILVA     3. Added the transaction table
 
 RUNTIME: 
 56 seconds
